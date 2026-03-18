@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Cankun Wang
 
-<!--
-**CankunWang/CankunWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Cybersecurity student @ Boston University  
+- Focused on Penetration Testing (Web & Active Directory)  
+- Preparing for OSCP  
 
-Here are some ideas to get you started:
+## Skills
+- Web: XSS, SQLi, IDOR  
+- AD: BloodHound, RBCD, Kerberos  
+- Tools: Burp Suite, Impacket, ffuf  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Platforms
+- TryHackMe: https://tryhackme.com/p/kb010098
+
+## Projects
+- THM Writeups  
+- OSCP Notes  
+- Web & AD Checklists  
+
+## Currently Learning
+- Web Techniques
+- Active Directory attacks  
+- Privilege escalation  
