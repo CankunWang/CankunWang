@@ -14,7 +14,7 @@
 - TryHackMe: https://tryhackme.com/p/kb010098
 
 ## Projects
-- [THM Writeups] (https://github.com/CankunWang/THM_Writeups)
+- [THM Writeups](https://github.com/CankunWang/THM_Writeups)
 - OSCP Notes  
 - Web & AD Checklists  
 
