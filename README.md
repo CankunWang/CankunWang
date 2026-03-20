@@ -1,13 +1,13 @@
 # Hi, I'm Cankun Wang
 
 ## About Me
-- Cybersecurity student @ Boston University  
+- ECE student @ Boston University  
 - Focused on Penetration Testing (Web & Active Directory)  
 - Preparing for OSCP  
 
 ## Skills
-- Web: XSS, SQLi, IDOR  
-- AD: BloodHound, RBCD, Kerberos  
+- Web: XSS, SQLi, IDOR....  
+- AD: BloodHound,Netexec, Kerberos  
 - Tools: Burp Suite, Impacket, ffuf  
 
 ## Platforms
