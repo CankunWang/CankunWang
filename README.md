@@ -5,6 +5,9 @@
 - Focused on Penetration Testing (Web & Active Directory)  
 - Preparing for OSCP  
 
+## Certifications
+- PT1 (Tryhackme Junior Penetration tester）
+  
 ## Skills
 - Web: XSS, SQLi, IDOR....  
 - AD: BloodHound,Netexec, Kerberos  
